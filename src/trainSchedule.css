@@ -1,0 +1,14 @@
+/* trainSchedule.css */
+.train-schedule {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.train-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
